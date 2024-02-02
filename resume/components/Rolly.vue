@@ -8,7 +8,8 @@
         </div>
           <div class="flex">
             <div class="grow w-1/2">In short →</div>
-            <div class="grow w-2/3">I'm a venturous Bachelor's graduate with a love for human-centred product design and in search of a new challenge. I have six years of combined relevant experience, including working on large scale business-to-business and business-to-consumer applications, agile work environments, setting up design systems and improving design processes, and leading multidisciplinary projects.</div>
+            <div class="grow w-2/3">
+I'm a venturous Bachelor's graduate with a love for human-centred product design and searching for a new challenge. I have six years of combined relevant experience, including working on large scale business-to-business and business-to-consumer applications, agile work environments, setting up design systems and improving design processes, and leading multidisciplinary projects.</div>
           </div>
         </div>
         <div class="flex">
@@ -68,10 +69,10 @@
               <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 bg-blue-700 text-white">Junction</li>
               <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 border border-black">UX Designer/Marketing Lead</li>
               <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 border border-black">Leeuwarden</li>
-              <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 border border-black">Fulltime</li>
+              <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 border border-black">Full-time</li>
             </ul>
           </div>
-          <div class="grow w-3/5"><p class="block italic mb-4">A full-service agency, specialized in creative and digital solutions for </p></div>
+          <div class="grow w-3/5"><p class="block italic mb-4">A full-service agency, specialized in creative and digital solutions for companies ranging from enterprises level to smaller local entrepreneurs.</p><p>At Junction, I was hired to join the design team dedicated to their enterprise-level clients, and also improve the overall creative processes within their digital department. During this, I actively worked with HR and management to set up and lead the development process of multiple custom tools and processes, including a client portal and governance index. I also joined the marketing department to co-manage and improve their workflow, resulting in an average growth of 8% in billability and revenue.</p></div>
         </div>
         <div class="flex mb-24">
           <div class="grow w-2/5 mr-24">
@@ -80,10 +81,10 @@
               <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 bg-blue-700 text-white">Reconcept</li>
               <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 border border-black">UX Designer</li>
               <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 border border-black">Groningen</li>
-              <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 border border-black">Fulltime</li>
+              <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 border border-black">Full-time</li>
             </ul>
           </div>
-          <div class="grow w-3/5"><p class="block italic mb-4">A portfolio application that is used to validate and document progress, at the time used by medical students and shipped to more than 60% of all the hospitals in the Netherlands.</p><p>At Reconcept, a self-sustaining and freshly transitioned scale-up, I performed as the principal designer for their new product department. In collaboration with the CPO, I have set up and led the creation of all intial design processes. This included a structured handoff with the developer department and an agile design system that actively collaborated with the business and marketing department in terms of vision and content. Additionally, in collaboration with NHL Stenden University of Applied Sciences, I initiated an intern program to support the new generation of designers and developers, and started enhancing the features of the application on a conceptual level to prepare it for scalability, new markets and an overall better user experience.</p></div>
+          <div class="grow w-3/5"><p class="block italic mb-4">A portfolio application that is used to validate and document progress, at the time used by medical students and shipped to more than 60% of all the hospitals in the Netherlands.</p><p>At Reconcept, a self-sustaining and freshly transitioned scale-up, I performed as the principal designer for their new product department. In collaboration with the CPO, I have set up and led the creation of all initial design processes. This included a structured handoff with the developer department and an agile design system that actively collaborated with the business and marketing department in terms of vision and content. Additionally, in collaboration with NHL Stenden University of Applied Sciences, I initiated an intern program to support the new generation of designers and developers, and started enhancing the features of the application on a conceptual level to prepare it for scalability, new markets and an overall better user experience.</p></div>
         </div>
         <div class="flex mb-24">
           <div class="grow w-2/5 mr-24">
@@ -92,7 +93,7 @@
               <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 bg-blue-700 text-white">Yobbers</li>
               <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 border border-black">UX Designer</li>
               <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 border border-black">Leeuwarden</li>
-              <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 border border-black">Fulltime</li>
+              <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 border border-black">Full-time</li>
             </ul>
           </div>
           <div class="grow w-3/5"><p class="block italic mb-4">A platform for working abroad, offering full service and guidance throughout the whole process, and at the time successfully used by more than thousands of jobseekers a year.</p><p>At Yobbers, a holacratic and investor-backed scale-up, I performed autonomously as the lead designer for their in-house applicant tracking system. I was also the project lead and researcher for the community framework within the jobseeker platform — which was in a multidisciplinary pre-development phase at that time and oriented around ethical gamification. Additionally, I was responsible for the conversion rate optimization and the person of contact for internal feedback regarding the platform and applications.</p></div>
@@ -104,10 +105,10 @@
               <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 bg-blue-700 text-white">Ik Sport</li>
               <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 border border-black">Personal Trainer</li>
               <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 border border-black">Noordwolde</li>
-              <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 border border-black">Parttime</li>
+              <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 border border-black">Part-time</li>
             </ul>
           </div>
-          <div class="grow w-3/5"><p>In a journey to better myself in terms of guidance and peer assessing, I started a study in fitness and joined the Ik Sport gym as an intern. During this period, I eventually got my licence and worked my way up as a parttime instructor and personal trainer. I guided more than ten individuals, with a diverse set of goals, each for at least a year straight, and also lead the troubleshooting during the COVID-19 pandemic.</p></div>
+          <div class="grow w-3/5"><p>In a journey to better myself in terms of guidance and peer assessing, I started a study in fitness and joined the Ik Sport gym as an intern. During this period, I eventually got my licence and worked my way up as a part-time instructor and personal trainer. I guided more than ten individuals, with a diverse set of goals, each for at least a year straight, and also lead the troubleshooting during the COVID-19 pandemic.</p></div>
         </div>
         <div class="flex mb-24">
           <div class="grow w-2/5 mr-24">
@@ -119,7 +120,7 @@
               <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 border border-black">Internship</li>
             </ul>
           </div>
-          <div class="grow w-3/5"><p>For my second internship, I joined Rocket Science Retail, a design agency that worked in-house for Morgana, a high-end store focused on healthy sleeping, and their POS application. My work primarily consisted of redesigning and preparing the POS application for scalability and a public SaaS release. Alongside the POS project, I collaborated with other designers and developers on multiple static and WordPress powered websites for other clients, including a platform for renting wedding venues.</p></div>
+          <div class="grow w-3/5"><p>For my second internship, I joined Rocket Science Retail, a design agency that worked in-house for Morgana, a high-end store focused on healthy sleeping, and their POS application. My work primarily consisted of redesigning and preparing the POS application for scalability and a public SaaS release. Alongside the POS project, I collaborated with other designers and developers on multiple static and WordPress-powered websites for other clients, including a platform for renting wedding venues.</p></div>
         </div>
         <div class="flex">
           <div class="grow w-2/5 mr-24">
@@ -131,7 +132,7 @@
               <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 border border-black">Internship</li>
             </ul>
           </div>
-          <div class="grow w-3/5"><p>I joined the John Max agency as a hybrid UX Designer and Front-end Developer on an internship base for their long term project with KB, the national library of the Netherlands. Together with two other designers, and in collaboration with external developers, I worked full-time on a digital magazine that would ship each month to every member of a public library. The magazine included interviews, overviews of new books, articles that highlighted local news or events, and short stories. One of the primary focus points of the project was to blend modern digital usability with analogue nostalgia and recognizability. Additionally, after finishing the final designs for the digital magazine, I designed and developed a new static website for John Max as a post-internship freelance project.</p></div>
+          <div class="grow w-3/5"><p>I joined the John Max agency as a hybrid UX Designer and Front-end Developer on an internship base for their long-term project with KB, the national library of the Netherlands. Together with two other designers, and in collaboration with external developers, I worked full-time on a digital magazine that would ship each month to every member of a public library. The magazine included interviews, overviews of new books, articles that highlighted local news or events, and short stories. One of the primary focus points of the project was to blend modern digital usability with analogue nostalgia and recognizability. Additionally, after finishing the final designs for the digital magazine, I designed and developed a new static website for John Max as a post-internship freelance project.</p></div>
         </div>
       </div>
       <div data-scene data-speed="1.0" class="p-24">
@@ -143,10 +144,10 @@
               <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 bg-blue-700 text-white">Emaly</li>
               <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 border border-black">Full-stack Developer</li>
               <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 border border-black">Leeuwarden</li>
-              <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 border border-black">Parttime</li>
+              <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 border border-black">Part-time</li>
             </ul>
           </div>
-          <div class="grow w-3/5"><p class="block italic mb-4">Lorem.</p><p>Lorem.</p></div>
+          <div class="grow w-3/5"><p class="block">An event management and ticket sale application, powered by Vue.js, Nuxt, Tailwind CSS, and Supabase, and used by a small selection of early adopters. Together with a good friend, I’m building the application in my spare time, to increase my skills regarding front- and back-end development, scaleable infrastructure, and modular design systems.</p></div>
         </div>
       </div>
       <div data-scene data-speed="1.0" class="p-24">
