@@ -59,7 +59,82 @@
         </div>
       </div>
       <div data-scene data-speed="0.3" class="absolute right-12"><span class="text-[240px]">↓</span></div>
-      <div data-scene data-speed="1.0" class="min-h-screen p-24"><h2 class="mb-24 text-9xl font-semibold tracking-tighter">Work</h2></div>
+      <div data-scene data-speed="1.0" class="flex flex-col min-h-screen p-24">
+        <div><h2 class="mb-12 text-9xl font-semibold tracking-tighter">Work</h2></div>
+        <div class="flex mb-24">
+          <div class="grow w-2/5 mr-24">
+            <ul>
+              <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 border border-black">2023-2024</li>
+              <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 bg-blue-700 text-white">Junction</li>
+              <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 border border-black">UX Designer/Marketing Lead</li>
+              <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 border border-black">Leeuwarden</li>
+              <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 border border-black">Fulltime</li>
+            </ul>
+          </div>
+          <div class="grow w-3/5">Lorem</div>
+        </div>
+        <div class="flex mb-24">
+          <div class="grow w-2/5 mr-24">
+            <ul>
+              <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 border border-black">2022-2023</li>
+              <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 bg-blue-700 text-white">Reconcept</li>
+              <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 border border-black">UX Designer</li>
+              <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 border border-black">Groningen</li>
+              <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 border border-black">Fulltime</li>
+            </ul>
+          </div>
+          <div class="grow w-3/5"><p class="block italic mb-4">A portfolio application that is used to validate and document progress, at the time used by medical students and shipped to more than 60% of all the hospitals in the Netherlands.</p><p>At Reconcept, a self-sustaining and freshly transitioned scale-up, I performed as the principal designer for their new product department. In collaboration with the CPO, I have set up and led the creation of all intial design processes. This included a structured handoff with the developer department and an agile design system that actively collaborated with the business and marketing department in terms of vision and content. Additionally, in collaboration with NHL Stenden University of Applied Sciences, I initiated an intern program to support the new generation of designers and developers, and started enhancing the features of the application on a conceptual level to prepare it for scalability, new markets and an overall better user experience.</p></div>
+        </div>
+        <div class="flex mb-24">
+          <div class="grow w-2/5 mr-24">
+            <ul>
+              <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 border border-black">2020-2022</li>
+              <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 bg-blue-700 text-white">Yobbers</li>
+              <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 border border-black">UX Designer</li>
+              <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 border border-black">Leeuwarden</li>
+              <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 border border-black">Fulltime</li>
+            </ul>
+          </div>
+          <div class="grow w-3/5"><p class="block italic mb-4">A platform for working abroad, offering full service and guidance throughout the whole process, and at the time successfully used by more than thousands of jobseekers a year.</p><p>At Yobbers, a holacratic and investor-backed scale-up, I performed autonomously as the lead designer for their in-house applicant tracking system. I was also the project lead and researcher for the community framework within the jobseeker platform — which was in a multidisciplinary pre-development phase at that time and oriented around ethical gamification. Additionally, I was responsible for the conversion rate optimization and the person of contact for internal feedback regarding the platform and applications.</p></div>
+        </div>
+        <div class="flex mb-24">
+          <div class="grow w-2/5 mr-24">
+            <ul>
+              <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 border border-black">2019-2021</li>
+              <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 bg-blue-700 text-white">Ik Sport</li>
+              <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 border border-black">Personal Trainer</li>
+              <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 border border-black">Noordwolde</li>
+              <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 border border-black">Parttime</li>
+            </ul>
+          </div>
+          <div class="grow w-3/5"><p>In a side adventure to better myself in terms of guidance and peer assessing, I started a side-study in fitness and joined the Ik sport gym as an intern. During this period, I eventually got my licence and worked my way up as a part-time instructor and personal trainer. I guided more than ten individuals, with a diverse set of goals, each for at least a year straight, and also lead the troubleshooting during the COVID-19 pandemic.</p></div>
+        </div>
+        <div class="flex mb-24">
+          <div class="grow w-2/5 mr-24">
+            <ul>
+              <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 border border-black">2012-2013</li>
+              <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 bg-blue-700 text-white">Rocket Science Retail</li>
+              <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 border border-black">UX Designer/Frontend Developer</li>
+              <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 border border-black">Deventer</li>
+              <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 border border-black">Internship</li>
+            </ul>
+          </div>
+          <div class="grow w-3/5"><p>For my second internship, I joined Rocket Science Retail, a design agency that worked in-house for Morgana, a high-end store focused on healthy sleeping, and their POS application. My work primarily consisted of redesigning and preparing the POS application for scalability and a public SaaS release. Alongside the POS project, I collaborated with other designers and developers on multiple static and WordPress powered websites for other clients, including a platform for renting wedding venues.</p></div>
+        </div>
+        <div class="flex mb-24">
+          <div class="grow w-2/5 mr-24">
+            <ul>
+              <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 border border-black">2011-2012</li>
+              <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 bg-blue-700 text-white">John Max</li>
+              <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 border border-black">UX Designer/Frontend Developer</li>
+              <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 border border-black">Staphorst</li>
+              <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 border border-black">Internship</li>
+            </ul>
+          </div>
+          <div class="grow w-3/5"><p>I joined the John Max agency as a hybrid UX Designer and Frontend Developer on an internship base for their long term project with KB, the national library of the Netherlands. Together with two other designers, and in collaboration with external developers, I worked full-time on a digital magazine that would ship each month to every member of a public library. The magazine included interviews, overviews of new books, articles that highlighted local news or events, and short stories. One of the primary focus points of the project was to blend modern digital usability with analogue nostalgia and recognizability. Additionally, after finishing the final designs for the digital magazine, I designed and developed a new static website for John Max as a post-internship freelance project.</p></div>
+        </div>
+      </div>
+      <div data-scene data-speed="1.0" class="min-h-screen p-24"><h2 class="mb-24 text-9xl font-semibold tracking-tighter">Projects</h2></div>
       <div data-scene data-speed="1.0" class="min-h-screen p-24"><h2 class="mb-24 text-9xl font-semibold tracking-tighter">Education</h2></div>
       <div data-scene data-speed="1.0" class="min-h-screen p-24"><h2 class="mb-24 text-9xl font-semibold tracking-tighter">Skills</h2></div>
       <div data-scene data-speed="1.0" class="min-h-screen p-24"><h2 class="mb-24 text-9xl font-semibold tracking-tighter">Languages</h2></div>
