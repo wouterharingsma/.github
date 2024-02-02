@@ -150,7 +150,7 @@ I'm a venturous Bachelor's graduate with a love for human-centred product design
           <div class="grow w-3/5"><p class="block">An event management and ticket sale application, powered by Vue.js, Nuxt, Tailwind CSS, and Supabase, and used by a small selection of early adopters. Together with a good friend, I’m building the application in my spare time, to increase my skills regarding front- and back-end development, scaleable infrastructure, and modular design systems.</p></div>
         </div>
       </div>
-      <div data-scene data-speed="1.0" class="p-24">
+      <div data-scene data-speed="1.0" class="p-24 mb-24">
         <div><h2 class="mb-12 text-9xl font-semibold tracking-tighter">Education</h2></div>
         <div>
           <div class="mb-6">
