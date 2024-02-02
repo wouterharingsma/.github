@@ -59,7 +59,7 @@
         </div>
       </div>
       <div data-scene data-speed="0.3" class="absolute right-12"><span class="text-[240px]">↓</span></div>
-      <div data-scene data-speed="1.0" class="flex flex-col min-h-screen p-24">
+      <div data-scene data-speed="1.0" class="flex flex-col min-h-screen p-24 bg-white">
         <div><h2 class="mb-12 text-9xl font-semibold tracking-tighter">Work</h2></div>
         <div class="flex mb-24">
           <div class="grow w-2/5 mr-24">
@@ -71,7 +71,7 @@
               <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 border border-black">Fulltime</li>
             </ul>
           </div>
-          <div class="grow w-3/5">Lorem</div>
+          <div class="grow w-3/5"><p class="block italic mb-4">A full-service agency, specialized in creative and digital solutions for </p></div>
         </div>
         <div class="flex mb-24">
           <div class="grow w-2/5 mr-24">
@@ -107,37 +107,80 @@
               <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 border border-black">Parttime</li>
             </ul>
           </div>
-          <div class="grow w-3/5"><p>In a side adventure to better myself in terms of guidance and peer assessing, I started a side-study in fitness and joined the Ik sport gym as an intern. During this period, I eventually got my licence and worked my way up as a part-time instructor and personal trainer. I guided more than ten individuals, with a diverse set of goals, each for at least a year straight, and also lead the troubleshooting during the COVID-19 pandemic.</p></div>
+          <div class="grow w-3/5"><p>In a journey to better myself in terms of guidance and peer assessing, I started a study in fitness and joined the Ik Sport gym as an intern. During this period, I eventually got my licence and worked my way up as a parttime instructor and personal trainer. I guided more than ten individuals, with a diverse set of goals, each for at least a year straight, and also lead the troubleshooting during the COVID-19 pandemic.</p></div>
         </div>
         <div class="flex mb-24">
           <div class="grow w-2/5 mr-24">
             <ul>
               <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 border border-black">2012-2013</li>
               <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 bg-blue-700 text-white">Rocket Science Retail</li>
-              <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 border border-black">UX Designer/Frontend Developer</li>
+              <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 border border-black">UX Designer/Front-end Developer</li>
               <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 border border-black">Deventer</li>
               <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 border border-black">Internship</li>
             </ul>
           </div>
           <div class="grow w-3/5"><p>For my second internship, I joined Rocket Science Retail, a design agency that worked in-house for Morgana, a high-end store focused on healthy sleeping, and their POS application. My work primarily consisted of redesigning and preparing the POS application for scalability and a public SaaS release. Alongside the POS project, I collaborated with other designers and developers on multiple static and WordPress powered websites for other clients, including a platform for renting wedding venues.</p></div>
         </div>
-        <div class="flex mb-24">
+        <div class="flex">
           <div class="grow w-2/5 mr-24">
             <ul>
               <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 border border-black">2011-2012</li>
               <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 bg-blue-700 text-white">John Max</li>
-              <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 border border-black">UX Designer/Frontend Developer</li>
+              <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 border border-black">UX Designer/Front-end Developer</li>
               <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 border border-black">Staphorst</li>
               <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 border border-black">Internship</li>
             </ul>
           </div>
-          <div class="grow w-3/5"><p>I joined the John Max agency as a hybrid UX Designer and Frontend Developer on an internship base for their long term project with KB, the national library of the Netherlands. Together with two other designers, and in collaboration with external developers, I worked full-time on a digital magazine that would ship each month to every member of a public library. The magazine included interviews, overviews of new books, articles that highlighted local news or events, and short stories. One of the primary focus points of the project was to blend modern digital usability with analogue nostalgia and recognizability. Additionally, after finishing the final designs for the digital magazine, I designed and developed a new static website for John Max as a post-internship freelance project.</p></div>
+          <div class="grow w-3/5"><p>I joined the John Max agency as a hybrid UX Designer and Front-end Developer on an internship base for their long term project with KB, the national library of the Netherlands. Together with two other designers, and in collaboration with external developers, I worked full-time on a digital magazine that would ship each month to every member of a public library. The magazine included interviews, overviews of new books, articles that highlighted local news or events, and short stories. One of the primary focus points of the project was to blend modern digital usability with analogue nostalgia and recognizability. Additionally, after finishing the final designs for the digital magazine, I designed and developed a new static website for John Max as a post-internship freelance project.</p></div>
         </div>
       </div>
-      <div data-scene data-speed="1.0" class="min-h-screen p-24"><h2 class="mb-24 text-9xl font-semibold tracking-tighter">Projects</h2></div>
-      <div data-scene data-speed="1.0" class="min-h-screen p-24"><h2 class="mb-24 text-9xl font-semibold tracking-tighter">Education</h2></div>
-      <div data-scene data-speed="1.0" class="min-h-screen p-24"><h2 class="mb-24 text-9xl font-semibold tracking-tighter">Skills</h2></div>
-      <div data-scene data-speed="1.0" class="min-h-screen p-24"><h2 class="mb-24 text-9xl font-semibold tracking-tighter">Languages</h2></div>
+      <div data-scene data-speed="1.0" class="p-24">
+        <div><h2 class="mb-12 text-9xl font-semibold tracking-tighter">Projects</h2></div>
+        <div class="flex">
+          <div class="grow w-2/5 mr-24">
+            <ul>
+              <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 border border-black">2023-today</li>
+              <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 bg-blue-700 text-white">Emaly</li>
+              <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 border border-black">Full-stack Developer</li>
+              <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 border border-black">Leeuwarden</li>
+              <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 border border-black">Parttime</li>
+            </ul>
+          </div>
+          <div class="grow w-3/5"><p class="block italic mb-4">Lorem.</p><p>Lorem.</p></div>
+        </div>
+      </div>
+      <div data-scene data-speed="1.0" class="p-24">
+        <div><h2 class="mb-12 text-9xl font-semibold tracking-tighter">Education</h2></div>
+        <div>
+          <div class="mb-6">
+            <ul>
+            <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 border border-black">2017-2021</li>
+            <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 bg-blue-700 text-white">B.Sc. Communication & Multimedia Design</li>
+            <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 border border-black">NHL Stenden University of Applied Sciences</li>
+            <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-3 border border-black">Leeuwarden</li>
+            <li class="block">→ Minors: The Next Web, Conceptual Thinking, and Entrepreneurship.</li>
+          </ul>
+        </div>
+        <div class="mb-6">
+            <ul>
+            <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 border border-black">2019-2020</li>
+            <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 bg-blue-700 text-white">Fitness A (Instructor) and B (Personal Trainer)</li>
+            <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 border border-black">Fitness Educatie Noord</li>
+            <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-3 border border-black">Leeuwarden</li>
+            <li class="block">→ Specialisation: Personal Guidance, and Peer Assesing.</li>
+          </ul>
+        </div>
+        <div>
+            <ul>
+            <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 border border-black">2010-2014</li>
+            <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 bg-blue-700 text-white">MBO Mediavormgeving</li>
+            <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-1.5 border border-black">Friesland College</li>
+            <li class="inline-block rounded-full px-4 py-2 mr-1.5 mb-3 border border-black">Heerenveen</li>
+            <li class="block">→ Specialisation: Interactive Design.</li>
+          </ul>
+        </div>
+        </div>
+      </div>
     </div>
   </template>
 
